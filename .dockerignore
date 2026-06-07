@@ -1,0 +1,11 @@
+.git
+.env*.local
+.DS_Store
+node_modules
+npm-debug.log*
+.server-logs
+.vitepress/cache
+.vitepress/dist
+.vitepress-src
+learning-notes
+coverage

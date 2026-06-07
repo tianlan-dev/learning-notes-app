@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Node dependencies
+node_modules/
+.server-logs/
+
+# Local private notes source
+learning-notes
+.env*.local
+
+# VitePress generated files
+.vitepress/cache/
+.vitepress/dist/
+.vitepress/.temp/
+.vitepress-src/

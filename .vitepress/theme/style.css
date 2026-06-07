@@ -1,0 +1,19 @@
+.mermaid-diagram {
+  margin: 24px 0;
+  overflow-x: auto;
+}
+
+.mermaid-diagram svg {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
+.mermaid-error {
+  border: 1px solid var(--vp-c-danger-2);
+  border-radius: 8px;
+  padding: 12px;
+  color: var(--vp-c-danger-1);
+  background: var(--vp-c-danger-soft);
+}
